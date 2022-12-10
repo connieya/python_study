@@ -1,6 +1,12 @@
 # python study
 
+### Dictionary
+
+- [Grading Program by dict](9_dictionary/grading_program.py)
+- [Dictionary in List](9_dictionary/dictionary_in_list.py)
+
 ### OOP로 커피 자판기 연습
+
 - [메인](16_oop_coffee_machine/main.py)
 - [메뉴판](16_oop_coffee_machine/menu.py)
 - [커피 생성](16_oop_coffee_machine/coffee_maker.py)
@@ -22,7 +28,7 @@
 - [exception , try ,except ,else,finally](30_exception/main.py)
 - [KeyError Handling](30_exception/handling.py)
 
-### 데코레이터
+### 데코레이터(decorator)
 
 - [데코레이터 개념](concept/decorator/decorator.py)
 - [speed_calc 데코레이터](concept/decorator/decorator_calc.py)
