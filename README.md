@@ -12,3 +12,12 @@
 - [메인](17_class_quiz_game/main.py)
 - [질문 모델(question model)](17_class_quiz_game/question_model.py)
 - [퀴즈](17_class_quiz_game/quiz_brain.py)
+
+### Turtle 그래픽
+
+#### [공식문서](https://docs.python.org/3/library/turtle.html)
+
+### 예외
+
+- [exception , try ,except ,else,finally](30_exception/main.py)
+- [KeyError Handling](30_exception/handling.py)
