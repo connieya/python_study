@@ -24,9 +24,12 @@
 #### [공식문서](https://docs.python.org/3/library/turtle.html)
 
 ### 예외
-
 - [exception , try ,except ,else,finally](30_exception/main.py)
 - [KeyError Handling](30_exception/handling.py)
+
+### API , requests
+
+- [칸예 명연 앱 by kanye rest api ](33_API_requests/main.py)
 
 ### 데코레이터(decorator)
 
