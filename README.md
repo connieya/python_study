@@ -32,6 +32,7 @@
 
 - [데코레이터 개념](concept/decorator/decorator.py)
 - [speed_calc 데코레이터](concept/decorator/decorator_calc.py)
+- [고급 데코레이터, *args ,**kwargs](concept/decorator/python-decorator.py)
 
 ### argument
 
@@ -39,3 +40,11 @@
 - [**kwargs ](concept/arguments/kwargs_example.py)
 
 ### Flask
+
+- [number up/down game by flask](54_flask/app.py)
+- [jinja , templates , url_for by flask](57_jinja/readme.md)
+  - [server.py](57_jinja/server.py)
+  - [post.py](57_jinja/post.py)
+  - [index.html ](57_jinja/templates/index.html)
+  - [post.html](57_jinja/templates/post.html)
+  - [styles.css](57_jinja/static/css/styles.css)
